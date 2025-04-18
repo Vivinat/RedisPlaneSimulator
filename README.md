@@ -8,7 +8,7 @@ Demonstrates real-time data exchange in distributed systems.
 Unit tests located under src/test/java, particularly in PlaneSimulatorTest.java
 
 ## Prerequisites
-Java Development Kit (JDK) 8 or higher
-Apache Maven
-Redis Server
+- Java Development Kit (JDK) 8 or higher
+- Apache Maven
+- Redis Server
 
